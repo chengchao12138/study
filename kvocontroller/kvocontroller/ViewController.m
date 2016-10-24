@@ -36,6 +36,62 @@ static inline UIFont * sysPfFont() {
         
         
     }];
+    [self.KVOController  observe:_lb keyPaths:@[@"text"] options:NSKeyValueObservingOptionNew block:^(id  _Nullable observer, id  _Nonnull object, NSDictionary<NSString *,id> * _Nonnull change) {
+        
+        
+        
+        
+        
+    }];
+    [self.KVOController  observe:_lb keyPaths:@[@"text"] options:NSKeyValueObservingOptionNew block:^(id  _Nullable observer, id  _Nonnull object, NSDictionary<NSString *,id> * _Nonnull change) {
+        
+        
+        
+        
+        
+    }];
+    [self.KVOController  observe:_lb keyPaths:@[@"text"] options:NSKeyValueObservingOptionNew block:^(id  _Nullable observer, id  _Nonnull object, NSDictionary<NSString *,id> * _Nonnull change) {
+        
+        
+        
+        
+        
+    }];
+    [self.KVOController  observe:_lb keyPaths:@[@"text"] options:NSKeyValueObservingOptionNew block:^(id  _Nullable observer, id  _Nonnull object, NSDictionary<NSString *,id> * _Nonnull change) {
+        
+        
+        
+        
+        
+    }];
+    [self.KVOController  observe:_lb keyPaths:@[@"text"] options:NSKeyValueObservingOptionNew block:^(id  _Nullable observer, id  _Nonnull object, NSDictionary<NSString *,id> * _Nonnull change) {
+        
+        
+        
+        
+        
+    }];
+    [self.KVOController  observe:_lb keyPaths:@[@"text"] options:NSKeyValueObservingOptionNew block:^(id  _Nullable observer, id  _Nonnull object, NSDictionary<NSString *,id> * _Nonnull change) {
+        
+        
+        
+        
+        
+    }];
+    [self.KVOController  observe:_lb keyPaths:@[@"text"] options:NSKeyValueObservingOptionNew block:^(id  _Nullable observer, id  _Nonnull object, NSDictionary<NSString *,id> * _Nonnull change) {
+        
+        
+        
+        
+        
+    }];
+    [self.KVOController  observe:_lb keyPaths:@[@"text"] options:NSKeyValueObservingOptionNew block:^(id  _Nullable observer, id  _Nonnull object, NSDictionary<NSString *,id> * _Nonnull change) {
+        
+        
+        
+        
+        
+    }];
     
 
     dispatch_after(dispatch_time(DISPATCH_TIME_NOW, (int64_t)(3 * NSEC_PER_SEC)), dispatch_get_main_queue(), ^{
